@@ -1,0 +1,114 @@
+layout_spectrum: 0.8246729503342384
+typography_spectrum: 0.5618384648777435
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.03540406368949478
+  lightness: 0.9001372567373375
+  saturation: 0.04966507250369333
+  rhythmicContrast: 0.2720096407590047
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Never Out of Water
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwomIxQqO2tE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwomIxQqO2tE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwomIxQqO2tE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: charitywater
+          url: 'https://www.youtube.com/user/charitywater'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - water
+        - 'charity: water (nonprofit organization)'
+        - dirty water
+        - wash
+        - health & sanitation
+        - buck.tv
+        - antfood
+      description: >-
+        Clean water changes everything. Learn more about the water crisis at
+        http://cwtr.org/2knV36R 663 million people on our planet drink dirty and
+        dangerous water. Actually, they don't just drink it, they work for it.
+        They invest hours every day.
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=womIxQqO2tE'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=womIxQqO2tE
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=womIxQqO2tE
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=womIxQqO2tE'
+      title: Why Water - Learn about the water crisis and how you can help
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Never Out of Water
+description: 780 Million people do not have access to clean water. Help us change that.
+author:
+  name: 'Connor '
+  email: connorclarkin@gmail.com
+purpose:
+  - type: external
+    url: 'https://connorlarkin.typeform.com/to/tb1Ybn'
+    label: Buy NOW Token
+  - type: external
+    label: DONATE
+    url: 'http://thegrid.ai/donate'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5542a9c2-bca3-4fa6-a29d-b693361047cb.png
+github: true
