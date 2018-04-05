@@ -114,7 +114,7 @@ description: 780 Million people do not have access to clean water. Help us chang
 purpose:
   - type: external
     url: 'https://github.com/NeverOutofWater'
-    label: DOWNLOAD WALLET
+    label: DOWNLOAD BINARIES
   - type: external
     label: DONATE
     url: 'http://thegrid.ai/donate'
