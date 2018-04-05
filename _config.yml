@@ -1,4 +1,3 @@
-layout_spectrum: 0.8246729503342384
 typography_spectrum: 0.5618384648777435
 color:
   brandColors:
@@ -11,6 +10,14 @@ color:
   lightness: 0.9001372567373375
   saturation: 0.04966507250369333
   rhythmicContrast: 0.2720096407590047
+github: true
+layout_spectrum: 0.8246729503342384
+author:
+  name: 'Connor '
+  email: connorclarkin@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5542a9c2-bca3-4fa6-a29d-b693361047cb.png
+name: Never Out of Water
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +25,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Never Out of Water
+navigation:
+  - name: ABOUT US
+    id: 2a063809-2243-4562-9383-449a60b7a47f
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab97e801-0989-4ac6-ad27-62c370081137.jpg
+title: Never Out of Water
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -29,16 +42,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: charitywater
-          url: 'https://www.youtube.com/user/charitywater'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=womIxQqO2tE'
       keywords:
         - water
         - 'charity: water (nonprofit organization)'
@@ -47,11 +52,13 @@ content:
         - health & sanitation
         - buck.tv
         - antfood
-      description: >-
-        Clean water changes everything. Learn more about the water crisis at
-        http://cwtr.org/2knV36R 663 million people on our planet drink dirty and
-        dangerous water. Actually, they don't just drink it, they work for it.
-        They invest hours every day.
+      related: []
+      author:
+        - name: charitywater
+          url: 'https://www.youtube.com/user/charitywater'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Why Water - Learn about the water crisis and how you can help
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=womIxQqO2tE&feature=applinks'
@@ -90,18 +97,20 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=womIxQqO2tE'
-      title: Why Water - Learn about the water crisis and how you can help
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      description: >-
+        Clean water changes everything. Learn more about the water crisis at
+        http://cwtr.org/2knV36R 663 million people on our planet drink dirty and
+        dangerous water. Actually, they don't just drink it, they work for it.
+        They invest hours every day.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Never Out of Water
 description: 780 Million people do not have access to clean water. Help us change that.
-author:
-  name: 'Connor '
-  email: connorclarkin@gmail.com
 purpose:
   - type: external
     url: 'https://github.com/NeverOutofWater'
@@ -109,8 +118,3 @@ purpose:
   - type: external
     label: DONATE
     url: 'http://thegrid.ai/donate'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5542a9c2-bca3-4fa6-a29d-b693361047cb.png
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab97e801-0989-4ac6-ad27-62c370081137.jpg
