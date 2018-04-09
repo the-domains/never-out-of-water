@@ -7,16 +7,18 @@ description: >-
   here’s an example: I’ve mined 1,000 NOW Coins and I request a manual payout
   from my pool. As a result of this transaction 1 coin will be donated to the
   NOW Coin Wallet and the remaining 999 is sent to my wallet.
-dateModified: '2018-04-09T04:40:25.671Z'
-datePublished: '2018-04-09T04:40:26.185Z'
+dateModified: '2018-04-09T04:47:33.341Z'
+datePublished: '2018-04-09T04:47:34.113Z'
 title: Save Lives by Mining + Using NOW Coin
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-05-give-to-charity-save-lives-by-mining-using-now-coin.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-04-09T04:40:26.185Z'
-sourcePath: _posts/2018-04-05-give-to-charity-save-lives-by-mining-using-now-coin.md
-_type: Blurb
+url: save-lives-by-mining-using-now-coin/index.html
+_type: Article
 
 ---
 ## **Save Lives by Mining + Using NOW Coin**
