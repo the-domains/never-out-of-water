@@ -1,17 +1,17 @@
-typography_spectrum: 0.5618384648777435
+layout_spectrum: 0.9243149923762805
+typography_spectrum: 0.8377930543534826
 color:
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 0.03540406368949478
-  lightness: 0.9001372567373375
-  saturation: 0.04966507250369333
-  rhythmicContrast: 0.2720096407590047
+    - '#FFFFFF'
+    - '#2D52A3'
+    - '#738AC0'
+    - '#A2B2D6'
+    - '#D5DCEE'
+  brandStrength: 0.5275012193301158
+  lightness: 0.933056229820641
+  saturation: 0.5658931651834104
+  rhythmicContrast: 0.6094443015030373
 github: true
-layout_spectrum: 0.8246729503342384
 author:
   name: 'Connor '
   email: connorclarkin@gmail.com
