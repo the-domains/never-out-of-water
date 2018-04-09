@@ -1,4 +1,3 @@
-layout_spectrum: 0.9243149923762805
 typography_spectrum: 0.8377930543534826
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.5658931651834104
   rhythmicContrast: 0.6094443015030373
 github: true
+layout_spectrum: 0.9243149923762805
 author:
   name: 'Connor '
   email: connorclarkin@gmail.com
@@ -28,6 +28,9 @@ colors:
 navigation:
   - name: ABOUT US
     id: 2a063809-2243-4562-9383-449a60b7a47f
+    type: content
+  - name: MISSION
+    id: 3ea53054-455e-4e99-86d9-17afebf7d24c
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd82bee7-47d2-45b0-8032-e9cfd67cde26.jpg
